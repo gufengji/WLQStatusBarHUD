@@ -3,8 +3,9 @@
 
 ## 使用方法如下
 
-  ## 显示成功
-  ****objc
-    + (void)showSuccess:(NSString *)meg;
-  ****
+## 显示成功
+****
+objc
++ (void)showSuccess:(NSString *)meg;
+****
   
